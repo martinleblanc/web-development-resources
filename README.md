@@ -179,6 +179,8 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 | https://fontawesome.com |  
 | https://flaticon.com |  
 | https://icons8.com |  
+| https://flaticon.com |  
+| https://iconfinder.com |  
 | https://material.io/resources/icons |  
 | https://iconmonstr.com | 
 | https://heroicons.com |
